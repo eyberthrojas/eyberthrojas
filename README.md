@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eyberthrojas
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning NLP (Natural Languaje Processing)
-- 💞️ I’m workink in Mercado Libre
+- 💞️ I’m working in Mercado Libre
 - 📫 How to reach me www.linkedin.com/in/eyberth-rojas-
 martinez-b9871a7b
 
